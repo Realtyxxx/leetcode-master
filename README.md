@@ -1,4 +1,5 @@
-👉 推荐 [在线阅读](http://programmercarl.com/) (Github在国内访问经常不稳定)
+👉 推荐 [在线阅读](http://programmercarl.com/) (Github在国内访问经常不稳定)         
+👉 推荐 [Gitee同步](https://gitee.com/programmercarl/leetcode-master) 
 
 > 1. **介绍**：本项目是一套完整的刷题计划，旨在帮助大家少走弯路，循序渐进学算法，[关注作者](#关于作者)
 > 2. **PDF版本** ： [「代码随想录」算法精讲 PDF 版本](https://mp.weixin.qq.com/s/RsdcQ9umo09R6cfnwXZlrQ) 。
@@ -477,6 +478,11 @@
 * [100.相同的树](./problems/0100.相同的树.md) 同101.对称二叉树 一个思路
 * [116.填充每个节点的下一个右侧节点指针](./problems/0116.填充每个节点的下一个右侧节点指针.md)
 
+## 回溯算法 
+
+* [52.N皇后II](./problems/0052.N皇后II.md)
+  
+
 ## 贪心
 * [649.Dota2参议院](./problems/0649.Dota2参议院.md) 有难度
 
@@ -488,6 +494,7 @@
 ## 图论
 * [463.岛屿的周长](./problems/0463.岛屿的周长.md) （模拟）
 * [841.钥匙和房间](./problems/0841.钥匙和房间.md) 【有向图】dfs，bfs都可以
+* [127.单词接龙](./problems/0127.单词接龙.md) 广搜
 
 ## 并查集 
 * [684.冗余连接](./problems/0684.冗余连接.md) 【并查集基础题目】
